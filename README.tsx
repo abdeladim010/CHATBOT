@@ -1,4 +1,5 @@
 
+
 import React, { useState } from 'react';
 import DashboardPanel from './components/DashboardPanel';
 import ChatPanel from './components/ChatPanel';
@@ -42,4 +43,3 @@ const App: React.FC = () => {
 };
 
 export default App;
-
